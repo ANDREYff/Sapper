@@ -1,0 +1,9 @@
+﻿  Element.cpp
+  Game.cpp
+c:\users\aostr\source\repos\sapper\sapper\game.cpp(27): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+c:\users\aostr\source\repos\sapper\sapper\game.cpp(95): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\aostr\source\repos\sapper\sapper\game.cpp(224): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+  Source.cpp
+c:\users\aostr\source\repos\sapper\sapper\source.cpp(5): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  Sapper.vcxproj -> C:\Users\aostr\source\repos\Sapper\Debug\Sapper.exe
